@@ -15,7 +15,15 @@
 
 # **How the Internet Works**
 
+1. What is the Internet 
 
+2. The Internet- Wires, Cables, Wifi 
+
+3. The Internet- IP Addresses and DNS 
+
+4. The Internet- Packets, Routing and Reliability 
+
+5. The Internet- HTTP and HTML 
 
 
 
