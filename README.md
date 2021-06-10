@@ -7,7 +7,8 @@ Here is a short history of the Internet that will give you a partial picture of 
 
 This website also explains how the Internet works. It doesn't go into great depth, but covers enough basic understanding of the concepts involved. The various technologies that support the Internet have evolved over time, but the way it works hasn't changed that much. Internet is a way to connect computers all together and ensure that they find a way to stay connected.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Internet](https://unsplash.com/photos/vdXMSiX-n6M)
+
 
 
 # **INTERNET HISTORY TIMELINE**
